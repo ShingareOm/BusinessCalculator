@@ -1,6 +1,6 @@
 # 🧮 Business Calculator - Prerana, Om 🧮
 
-![Business Calculator Preview](calculator_preview.png)
+![Business Calculator Preview](output.png)
 
 A stylish and responsive web-based Business Calculator with a professional touch. Perform calculations effortlessly!
 
