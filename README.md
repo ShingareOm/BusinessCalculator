@@ -18,7 +18,10 @@ A stylish and responsive web-based Business Calculator with a professional touch
 1. Enter the numbers and operations using the buttons.
 2. Press the "=" button to get the result.
 3. Use the "C" button to clear the input and start over.
-4. Enjoy the smooth and responsive calculator experience!
+4. Use DEL for removing the last input you given to the cal..
+5. Press ^ for using the pow() operation.
+6. Use the `(` `)` for providing the complex, equations.
+7. Enjoy the smooth and responsive calculator experience!
 
 ## 🛠️ How to Run
 
