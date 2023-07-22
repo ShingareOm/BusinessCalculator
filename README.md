@@ -27,7 +27,7 @@ A stylish and responsive web-based Business Calculator with a professional touch
 
 ## 👥 Contributors
 
-- [Prerana Kupade](https://github.com/PreranaKupade) (Owner)
+- [Prerana Kupade](https://github.com/PreranaKupade) (Contributor)
 - [Om Shingare](https://github.com/ShingareOm) (Contributor)
 
 ## 📄 License
