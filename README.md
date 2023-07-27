@@ -1,6 +1,6 @@
 # 🧮 Business Calculator - Prerana, Om 🧮
 
-![Business Calculator Preview](.\output\output.png)
+![Business Calculator Preview](output/output.png)
 
 A stylish and responsive web-based Business Calculator with a professional touch. Perform calculations effortlessly! [Demo](https://shingareom.github.io/BusinessCalculator/) 
 
